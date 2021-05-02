@@ -26,7 +26,7 @@ Windows users Guide
 5. Restart your computer.
 
 Before you start deploying
-1. Login [docker hub](https://www.hub.docker.com)
+1. Login [docker hub](https://hub.docker.com/)
    If you did not have an account, do that first before you continue.
 2.    
 
