@@ -37,4 +37,4 @@ build/
 demo.zip
 mvnw
 mvnw.cmd
-Spring Boot - Java 11 LTS/main/resources/application.properties
+src/main/resources/application.properties
