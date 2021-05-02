@@ -37,4 +37,4 @@ build/
 demo.zip
 mvnw
 mvnw.cmd
-src/main/resources/application.properties
+Spring-boot-java/main/resources/application.properties
