@@ -6,3 +6,5 @@ SundaySpringDockFun/demo/mvnw.cmd
 *demo.zip
 *mvnw
 *mvn
+demo/src/main/resources/application.properties
+demo/mvnw.cmd
