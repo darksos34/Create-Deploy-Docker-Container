@@ -16,7 +16,7 @@ First requirements
 - 
 Or
 - [.NET core](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows)
-- 
+
 Choose your environment:
 
 1. Install Docker Desktop
