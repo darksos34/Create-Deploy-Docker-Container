@@ -15,7 +15,7 @@ Go to your server adres:
 3. Go to APPS
 3. Install 	Community Applications
 
-![unraid settings.png](README/unraid settings.png)
+![unraid settings.png](READMEunraid settings.png)
 
 
 
