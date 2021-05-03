@@ -5,7 +5,9 @@ Contributed by Jordy Coder.
 
 
 ##How to get started?
+
 Create Dockerfile
+
 Create .NET Core app
 
 What do you need?
